@@ -6,3 +6,5 @@
         public string Email { get; set; } = string.Empty;
     }
 }
+
+// TO-DO: add validation & config Swagger
