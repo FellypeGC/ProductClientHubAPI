@@ -7,4 +7,4 @@
     }
 }
 
-// TO-DO: add validation & config Swagger
+// TO-DO: add validation
